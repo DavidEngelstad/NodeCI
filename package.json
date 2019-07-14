@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "jest": {
-    "setupTestFrameworkScriptFile": "./tests/setup.js",
-    "testEnvironment": "node",
-    "verbose": true
+    "setupTestFrameworkScriptFile": "./tests/setup.js"
   },
   "scripts": {
     "start": "node index.js",
